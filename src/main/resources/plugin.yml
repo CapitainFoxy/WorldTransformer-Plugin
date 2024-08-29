@@ -1,0 +1,11 @@
+name: WorldTransformer
+author: CapitainFoxy
+version: 1.0
+main: com.capitainfoxy.worldtransformer.WorldTransformer
+commands:
+  transform:
+    description: Apply a transformation to the current world
+    usage: /transform <type>
+  snapshot:
+    description: Save or load a world snapshot
+    usage: /snapshot <save/load>
