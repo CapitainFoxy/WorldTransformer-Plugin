@@ -1,6 +1,5 @@
 name: WorldTransformer
 author: CapitainFoxy
-version: 1.0
 main: com.capitainfoxy.worldtransformer.WorldTransformer
 commands:
   transform:
